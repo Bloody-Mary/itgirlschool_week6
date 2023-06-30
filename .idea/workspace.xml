@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b03046da-f02c-4bf2-95b7-e7382b4151b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/babushkina/week6/homework/task4/NumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/babushkina/week6/homework/task3/WeekDayCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     "onboarding.tips.debug.path": "/home/mary/IdeaProjects/itgirlschool/untitled/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberSequence">
+  <component name="RunManager" selected="Application.WeekDayCheck">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.babushkina.week6.homework.task5.Factorial" />
       <module name="week6" />
@@ -64,6 +64,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeekDayCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.babushkina.week6.homework.task3.WeekDayCheck" />
+      <module name="week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.babushkina.week6.homework.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="week6" />
       <method v="2">
@@ -79,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeekDayCheck" />
         <item itemvalue="Application.NumberSequence" />
         <item itemvalue="Application.Factorial" />
       </list>
@@ -101,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688124381639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create task4">
+      <option name="closed" value="true" />
+      <created>1688125061023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688125061023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create task5" />
+    <MESSAGE value="Create task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create task4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

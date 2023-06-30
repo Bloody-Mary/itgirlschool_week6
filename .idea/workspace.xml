@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b03046da-f02c-4bf2-95b7-e7382b4151b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/babushkina/week6/homework/task2/EvenOddCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/babushkina/week6/homework/task1/TemperatureCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "onboarding.tips.debug.path": "/home/mary/IdeaProjects/itgirlschool/untitled/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EvenOddCheck">
+  <component name="RunManager" selected="Application.TemperatureCheck">
     <configuration name="EvenOddCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.babushkina.week6.homework.task2.EvenOddCheck" />
       <module name="week6" />
@@ -76,6 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemperatureCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.babushkina.week6.homework.task1.TemperatureCheck" />
+      <module name="week6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.babushkina.week6.homework.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeekDayCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.babushkina.week6.homework.task3.WeekDayCheck" />
       <module name="week6" />
@@ -104,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemperatureCheck" />
         <item itemvalue="Application.EvenOddCheck" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.WeekDayCheck" />
@@ -144,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688126768630</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create task2">
+      <option name="closed" value="true" />
+      <created>1688127325032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688127325032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,7 +184,8 @@
     <MESSAGE value="Create task5" />
     <MESSAGE value="Create task4" />
     <MESSAGE value="Create task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create task3" />
+    <MESSAGE value="Create task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create task2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
